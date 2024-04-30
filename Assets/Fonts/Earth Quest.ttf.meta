@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: feac0d4a4cc692649b7fb7dfab26641e
+timeCreated: 1525279209
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Earth Quest
+  fontNames:
+  - Earth Quest
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
