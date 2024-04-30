@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 135732215aa7bc943b0462c1122e3698
+timeCreated: 1525279148
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hoodson Script Free Demo
+  fontNames:
+  - Hoodson Script Free Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
